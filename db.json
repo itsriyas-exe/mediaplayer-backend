@@ -1,0 +1,66 @@
+{
+  "videos": [
+    {
+      "caption": "Ranam intro song",
+      "thumpnail": "https://www.behindwoods.com/malayalam-movies/ranam/images/ranam-review-banner.jpg",
+      "vidUrl": "https://www.youtube.com/embed/AIUieMpmAr8",
+      "id": 1
+    },
+    {
+      "caption": "Interstellar edit",
+      "thumpnail": "https://i.ytimg.com/vi/YF1eYbfbH5k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE4gYShlMA8=&rs=AOn4CLDt6JPoesvmQnP8qf-00JpeDZUfyA",
+      "vidUrl": "https://www.youtube.com/embed/NagPxHJfvy8",
+      "id": 2
+    },
+    {
+      "caption": "Oppenhiemer",
+      "thumpnail": "https://v3img.voot.com/v3Storage/assets/oppenheimer-16x9-withlogo-1712046677033.jpg",
+      "vidUrl": "https://www.youtube.com/embed/uRJQJcy3f8w",
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Interstellar edit",
+      "url": "https://www.youtube.com/embed/NagPxHJfvy8",
+      "time": "09/10/2024, 11:14:52",
+      "id": 2
+    },
+    {
+      "caption": "Ranam intro song",
+      "url": "https://www.youtube.com/embed/AIUieMpmAr8",
+      "time": "09/10/2024, 11:15:12",
+      "id": 3
+    },
+    {
+      "caption": "Interstellar edit",
+      "url": "https://www.youtube.com/embed/NagPxHJfvy8",
+      "time": "09/10/2024, 11:15:21",
+      "id": 4
+    },
+    {
+      "caption": "Interstellar edit",
+      "url": "https://www.youtube.com/embed/NagPxHJfvy8",
+      "time": "15/10/2024, 11:35:49",
+      "id": 5
+    },
+    {
+      "caption": "Ranam intro song",
+      "url": "https://www.youtube.com/embed/AIUieMpmAr8",
+      "time": "15/10/2024, 11:35:51",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "category": "English",
+      "Allvideos": [],
+      "id": 1
+    },
+    {
+      "category": "gsegs",
+      "Allvideos": [],
+      "id": 2
+    }
+  ]
+}
